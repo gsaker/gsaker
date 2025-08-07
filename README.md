@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student currently studying Maths and Computer Science. Hoping to enter the field of Cybersecurity or Computer Science in the future
+I'm a student currently Computer Science at the University of Southampton. Hoping to enter the field of Cybersecurity or Computer Science in the future
 
 ![Image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white
 	) Enthusiast
